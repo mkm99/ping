@@ -1,4 +1,5 @@
 # ping
+_This project is from my networking class and the requirements belong to my professor_
 
 The program has two files "ping-client.py" and "ping-server.py" that uses UDP sockets to determine
 the round-trip time (RTT) to the server.
